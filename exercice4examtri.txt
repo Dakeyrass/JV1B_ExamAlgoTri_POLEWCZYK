@@ -1,0 +1,7 @@
+4/ Le tri à bulles est considéré comme très lent. Pourquoi ? Peut-on avoir une idée du temps
+nécessaire à son exécution, estimer son ordre de grandeur ? Détaillez votre réponse.
+
+Aucune idée, je n'ai pas réussi. Je suppose que faire remonter les valeurs une par une manuellement dans le tableau 
+doit être trop long, surtout avec de grands tableaux.
+Notons également qu'avec l'arrivée du tri par insertion (beaucoup plus rapide avec les nomtableau.insert(), nomtableau.pop()..)
+il est logique que le tri par propagation soit moins utilisé. 
